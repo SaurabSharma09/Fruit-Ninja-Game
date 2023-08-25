@@ -8,13 +8,13 @@
 </head>
 <body>
   <div class="banner">
-    <img src="Preview-image.png" alt="Fruit Ninja Game" width="600">
+    <img src="https://github.com/SaurabSharma09/Fruit-Ninja-Game/blob/main/Preview-image.png" alt="Fruit Ninja Game" width="600">
   </div>
 
   <h1 class="title">Fruit Ninja Game</h1>
   <p class="badge">
     <a href="LICENSE">
-      <img src="preview.mkv" alt="License">
+      <img src="https://github.com/SaurabSharma09/Fruit-Ninja-Game/blob/main/preview.mkv" alt="License">
     </a>
   </p>
 
