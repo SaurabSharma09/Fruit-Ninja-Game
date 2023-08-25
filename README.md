@@ -1,39 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
-  }
-  .container {
-    width: 80%;
-    margin: auto;
-    overflow: hidden;
-  }
-  header {
-    background-color: #35424a;
-    color: white;
-    padding: 20px;
-    text-align: center;
-  }
-  #main-content {
-    padding: 20px;
-  }
-  footer {
-    background-color: #35424a;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-  }
-</style>
+
 </head>
 <body>
 
