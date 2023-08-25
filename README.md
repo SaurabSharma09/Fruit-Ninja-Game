@@ -1,110 +1,102 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Fruit Ninja Game with Hand Gestures</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f4f4;
-    }
-    header {
-      background: #35424a;
-      color: #ffffff;
-      padding: 10px 0;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-    }
-    .features {
-      background: #ffffff;
-      padding: 20px;
-      border-radius: 5px;
-      margin-top: 20px;
-    }
-    .features h2 {
-      color: #35424a;
-      margin-top: 0;
-    }
-    .feature-item {
-      margin-bottom: 20px;
-    }
-    .usage {
-      background: #ffffff;
-      padding: 20px;
-      border-radius: 5px;
-      margin-top: 20px;
-    }
-    .dependencies {
-      background: #ffffff;
-      padding: 20px;
-      border-radius: 5px;
-      margin-top: 20px;
-    }
-    .license {
-      background: #ffffff;
-      padding: 20px;
-      border-radius: 5px;
-      margin-top: 20px;
-    }
-    .footer {
-      text-align: center;
-      margin-top: 20px;
-      padding: 10px;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Fruit Ninja Game with Hand Gestures</h1>
-    <p><strong>Reimagine the classic Fruit Ninja game in an augmented reality experience using hand gestures.</strong></p>
-  </header>
+<div align="center">
+  <img src="banner.png" alt="Fruit Ninja Game" width="600">
+</div>
 
-  <div class="container">
-    <div class="features">
-      <h2>Features</h2>
-      <div class="feature-item">
-        <h3>Realistic Gesture Controls</h3>
-        <p>Immerse yourself in the game by using hand gestures to cut fruits just like a real ninja.</p>
-      </div>
-      <div class="feature-item">
-        <h3>Dynamic Gameplay</h3>
-        <p>Experience dynamic fruit and bomb spawning, creating an engaging and unpredictable challenge.</p>
-      </div>
-      <div class="feature-item">
-        <h3>Interactive Scoring</h3>
-        <p>Keep track of your score and lives as you strive for the highest score and the longest streak.</p>
-      </div>
-      <div class="feature-item">
-        <h3>Responsive Design</h3>
-        <p>Enjoy a smooth and responsive gaming experience, enhancing your enjoyment and mastery of the game.</p>
-      </div>
-    </div>
+# Fruit Ninja Game
 
-    <div class="usage">
-      <h2>Installation</h2>
-      <ol>
-        <li>Clone this repository to your local machine using:<br><code>git clone https://github.com/your-username/fruit-ninja-hand-gestures.git</code></li>
-        <li>Navigate to the project directory:<br><code>cd fruit-ninja-hand-gestures</code></li>
-        <li>Install the required dependencies using:<br><code>pip install -r requirements.txt</code></li>
-      </ol>
-    </div>
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+Welcome to the **Fruit Ninja Game** repository, where the classic Fruit Ninja gameplay comes to life in an exciting and captivating digital experience.
+
+<p align="center">
+  <img src="demo.gif" alt="Gameplay Demo" width="800">
+</p>
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Objective](#objective)
+- [Scope](#scope)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+## 1. Introduction
+
+The **Fruit Ninja Game** is a tribute to the timeless fun of slicing fruits while dodging dangerous bombs. We've meticulously recreated the gameplay to offer you an authentic experience that pays homage to the beloved classic.
+
+## 2. Objective
+
+Our objective is clear: deliver a polished and immersive gaming encounter. Our focus is on creating an environment that seamlessly captures the magic of the original Fruit Ninja game.
+
+## 3. Scope
+
+This project aims to:
+
+- Preserve the essence of Fruit Ninja's gameplay mechanics
+- Present visually stunning 3D models for fruits and bombs
+- Deliver smooth and captivating animations for fluid gameplay
+- Provide an intuitive and user-friendly interface
+
+## 4. Getting Started
+
+### 4.1 Prerequisites
+
+Before you begin, ensure you have the following:
+
+- Python 3.7+
+- Pygame library
+
+### 4.2 Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/SaurabSharma09/Fruit-Ninja-Game
+
+   Install the required dependencies:
+   
+   pip install pygame
+
+## 5. Usage
+
+1) Run the game
+   python main.py
+
+2)Follow the on-screen instructions to dive into the action.
+3)Skillfully slice fruits and tactically avoid bombs to secure high scores!
+
+6. Features
+
+Faithfully recreated Fruit Ninja gameplay
+Exquisite 3D models for fruits and bombs
+Score tracking system to gauge your progress
+
+7. Contributing
+
+We welcome contributions from fellow enthusiasts! To contribute to the Fruit Ninja Game, adhere to these steps:
+
+Fork this repository.
+Create a new branch: git checkout -b feature/your-feature-name
+Commit your changes: git commit -m 'Add some feature'
+Push to the branch: git push origin feature/your-feature-name
+Submit a pull request.
+
+8. License
+
+This project is licensed under the MIT License. Refer to the LICENSE file for details.
+
+9. Acknowledgements
+
+Pygame
+Fruit and bomb images sourced from Google Images
 
 
-    <div class="footer">
-      <p><em>Explore the game, master your ninja skills, and enjoy the immersive experience!</em></p>
-    </div>
-  </div>
-</body>
-</html>
+<h3>Feel free to get in touch with us for inquiries or feedback. Enjoy the immersive fruit-slicing experience! 🍉🔪<h3>
+
+
+
