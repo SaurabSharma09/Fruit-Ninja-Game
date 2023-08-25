@@ -8,13 +8,13 @@
 </head>
 <body>
   <div class="banner">
-    <img src="banner.png" alt="Fruit Ninja Game" width="600">
+    <img src="Preview-image.png" alt="Fruit Ninja Game" width="600">
   </div>
 
   <h1 class="title">Fruit Ninja Game</h1>
   <p class="badge">
     <a href="LICENSE">
-      <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
+      <img src="preview.mkv" alt="License">
     </a>
   </p>
 
