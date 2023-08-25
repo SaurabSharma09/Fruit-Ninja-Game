@@ -101,7 +101,6 @@
       </ol>
     </div>
 
-    <!-- You can add similar sections for Usage, Dependencies, Contributing, License, etc. -->
 
     <div class="footer">
       <p><em>Explore the game, master your ninja skills, and enjoy the immersive experience!</em></p>
