@@ -40,8 +40,10 @@ python main.py
 
 Contributions are welcomed! Feel free to submit a pull request for any improvements or fixes. Please maintain a clear and concise coding style and provide comprehensive information about your changes.
 
-# Contact
+# linkdin
 linkdin :- https://www.linkedin.com/in/saurab-sharma-2b9927287/
+
+# Mail
 Mail:-  saurabsharma2022@gmail.com
 ---
 
