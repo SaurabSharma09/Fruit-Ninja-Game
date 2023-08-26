@@ -11,20 +11,7 @@
 
 <div id="project-preview" class="section">
   <h2 class="section-title">Project Preview</h2>
-  <div class="image-grid"   style="
-
-.image-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 10px;
-  margin-top: 20px;
-}
-
-.image-grid img {
-  max-width: 100%;
-  height: auto;
-}
-">
+  <div class="image-grid"   >
     <img src="https://github.com/SaurabSharma09/Fruit-Ninja-Game/blob/main/Preview-image%2001.png" alt="Preview 1">
     <img src="https://github.com/SaurabSharma09/Fruit-Ninja-Game/blob/main/Preview-image%2002.png" alt="Preview 2">
     <img src="https://github.com/SaurabSharma09/Fruit-Ninja-Game/blob/main/Preview-image%2003.png" alt="Preview 3">
