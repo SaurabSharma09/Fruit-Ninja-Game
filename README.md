@@ -121,13 +121,13 @@
   <ul class="contact-list">
     <li><a href=https://github.com/SaurabSharma09 target="_blank">GitHub</a></li>
     <li><a href="https://www.linkedin.com/in/saurab-sharma-2b9927287/" target="_blank">LinkedIn</a></li>
-    <li>Email: <span class="copyable">SaurabSharma2022@gmail.com</span> (Click to copy)</li>
+    <li>Email:- <span class="copyable">SaurabSharma2022@gmail.com</span> </li>
   </ul>
 </div>
 
 
 
-<script src="script.js"></script>
+
 </body>
 </html>
 
