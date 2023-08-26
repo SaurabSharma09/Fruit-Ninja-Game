@@ -7,9 +7,23 @@
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="banner">
-    <img src="https://github.com/SaurabSharma09/Fruit-Ninja-Game/blob/main/Preview-image.png" alt="Fruit Ninja Game" width="600">
+<!-- ... Rest of your content ... -->
+
+<div id="project-preview" class="section">
+  <h2 class="section-title">Project Preview</h2>
+  <div class="image-grid">
+    <img src="https://github.com/SaurabSharma09/Fruit-Ninja-Game/blob/main/Preview-image%2001.png" alt="Preview 1">
+    <img src="https://github.com/SaurabSharma09/Fruit-Ninja-Game/blob/main/Preview-image%2002.png" alt="Preview 2">
+    <img src="https://github.com/SaurabSharma09/Fruit-Ninja-Game/blob/main/Preview-image%2003.png" alt="Preview 3">
+    <img src="https://github.com/SaurabSharma09/Fruit-Ninja-Game/blob/main/Preview-image%2004.png" alt="Preview 4">
   </div>
+</div>
+
+<!-- ... Rest of your content ... -->
+
+</body>
+</html>
+
 
   <h1 class="title">Fruit Ninja Game</h1>
  
