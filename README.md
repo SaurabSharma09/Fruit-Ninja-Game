@@ -12,11 +12,7 @@
   </div>
 
   <h1 class="title">Fruit Ninja Game</h1>
-  <p class="badge">
-    <a href="LICENSE">
-      <img src="https://github.com/SaurabSharma09/Fruit-Ninja-Game/blob/main/preview.mkv" alt="License">
-    </a>
-  </p>
+ 
 
   <div class="centered">
     <p class="intro">Welcome to the <strong>Fruit Ninja Game</strong> repository, where the classic Fruit Ninja gameplay comes to life in an exciting and captivating digital experience.</p>
@@ -40,7 +36,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+   
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ul>
 
