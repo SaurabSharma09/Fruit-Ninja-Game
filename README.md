@@ -113,34 +113,20 @@
     </ol>
   </div>
 
-  <div id="Contact" class="section">
-    <h2 class="section-title">Contact</h2>
-    <p>This project is licensed under the MIT License. Refer to the <a href="LICENSE">LICENSE</a> file for details.</p>
-  </div>
-  <!-- ... Rest of your content ... -->
+  
+ 
 
 <div id="contact" class="section">
   <h2 class="section-title">Contact</h2>
   <p>Feel free to get in touch:</p>
   <ul class="contact-list">
-    <li><a href="https://github.com/yourusername" target="_blank">GitHub</a></li>
-    <li><a href="https://www.linkedin.com/in/yourusername" target="_blank">LinkedIn</a></li>
-    <li>Email: <span class="copyable">your@email.com</span> (Click to copy)</li>
+    <li><a href=https://github.com/SaurabSharma09 target="_blank">GitHub</a></li>
+    <li><a href="https://www.linkedin.com/in/saurab-sharma-2b9927287/" target="_blank">LinkedIn</a></li>
+    <li>Email: <span class="copyable">SaurabSharma2022@gmail.com</span> (Click to copy)</li>
   </ul>
 </div>
 
-<script>
-  const copyableText = document.querySelector('.copyable');
-  copyableText.addEventListener('click', () => {
-    const textArea = document.createElement('textarea');
-    textArea.value = copyableText.textContent;
-    document.body.appendChild(textArea);
-    textArea.select();
-    document.execCommand('copy');
-    document.body.removeChild(textArea);
-    alert('Email address copied to clipboard!');
-  });
-</script>
+
 
 <script src="script.js"></script>
 </body>
