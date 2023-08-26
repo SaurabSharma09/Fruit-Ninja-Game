@@ -36,7 +36,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#contributing">Contributing</a></li>
-   
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ul>
 
