@@ -15,7 +15,7 @@
  
 
   <div class="centered">
-    <p class="intro">Welcome to the <strong>Fruit Ninja Game</strong> repository, where the classic Fruit Ninja gameplay comes to life in an exciting and captivating digital experience.</p>
+    <p class="intro">Welcome to the <strong>Fruit Ninja Game</strong> repository, "Dive into the captivating world of Fruit Ninja Game! Experience the timeless thrill of slicing fruits and dodging bombs in this faithful recreation. Our project aims to deliver a polished gaming encounter with stunning visuals, smooth animations, and an intuitive interface. Contribute and be part of the fun!".</p>
   </div>
 
   <div class="centered">
@@ -113,10 +113,39 @@
     </ol>
   </div>
 
-  <div id="license" class="section">
-    <h2 class="section-title">License</h2>
+  <div id="Contact" class="section">
+    <h2 class="section-title">Contact</h2>
     <p>This project is licensed under the MIT License. Refer to the <a href="LICENSE">LICENSE</a> file for details.</p>
   </div>
+  <!-- ... Rest of your content ... -->
+
+<div id="contact" class="section">
+  <h2 class="section-title">Contact</h2>
+  <p>Feel free to get in touch:</p>
+  <ul class="contact-list">
+    <li><a href="https://github.com/yourusername" target="_blank">GitHub</a></li>
+    <li><a href="https://www.linkedin.com/in/yourusername" target="_blank">LinkedIn</a></li>
+    <li>Email: <span class="copyable">your@email.com</span> (Click to copy)</li>
+  </ul>
+</div>
+
+<script>
+  const copyableText = document.querySelector('.copyable');
+  copyableText.addEventListener('click', () => {
+    const textArea = document.createElement('textarea');
+    textArea.value = copyableText.textContent;
+    document.body.appendChild(textArea);
+    textArea.select();
+    document.execCommand('copy');
+    document.body.removeChild(textArea);
+    alert('Email address copied to clipboard!');
+  });
+</script>
+
+<script src="script.js"></script>
+</body>
+</html>
+
 
   <div id="acknowledgements" class="section">
     <h2 class="section-title">Acknowledgements</h2>
@@ -130,6 +159,6 @@
     <p class="outro">Feel free to get in touch with us for inquiries or feedback. Enjoy the immersive fruit-slicing experience! 🍉🔪</p>
   </div>
 
-  <script src="script.js"></script>
+ 
 </body>
 </html>
