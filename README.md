@@ -88,7 +88,7 @@
       <h3 class="subsection-title">Installation</h3>
       <ol>
         <li>Clone the repository:</li>
-        <pre><code>git clone https://github.com/yourusername/fruit-ninja-game.git</code></pre>
+        <pre><code>https://github.com/SaurabSharma09/Fruit-Ninja-Game</code></pre>
         <li>Install the required dependencies:</li>
         <pre><code>pip install pygame</code></pre>
       </ol>
